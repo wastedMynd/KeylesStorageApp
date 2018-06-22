@@ -1,6 +1,6 @@
 # KeylesStorageApp
 
-![](https://github.com/wastedMynd/KeylesStorageSystem-/blob/master/parcels_2.png)
+![](https://github.com/wastedMynd/KeylesStorageApp/App0.PNG)
 _Companion Mobile App 
 
 This is an Academic Project; Designed and Developed by Students</font> at the Vaal University of Technology</b></font>. Powered by Android Things and Raspberry Pi 3.
